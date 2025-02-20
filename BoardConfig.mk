@@ -23,7 +23,7 @@
 # *not* include it on all devices, so it is safe even with hardware-specific
 # components.
 
-PLATFORM_PATH := device/BQ/BQ5519G
+PLATFORM_PATH := device/sprd/BQ5519G
 
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES=true
