@@ -1,0 +1,7 @@
+ro.hardware.keystore=sprdtrusty
+sys.usb.controller=musb-hdrc.0.auto
+ro.crypto.fde_algorithm=adiantum
+ro.crypto.fde_sector_size=4096
+ro.crypto.volume.contents_mode=adiantum
+ro.crypto.volume.filenames_mode=adiantum
+
